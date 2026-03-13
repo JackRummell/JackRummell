@@ -5,6 +5,8 @@
       - NCAA Football Student-Athlete
 - 🔎 I’m interested in different areas of cybersecurity and data analysis.
 - 🌱 I’m currently learning about Network Secuirty and Web Development in school.
+-  💻 Projects:
+    - My Cybersecurity Virtualization & Container Lab: [View Home Lab](https://github.com/JackRummell/cybersecurity-testing-lab)
 - 📫 How to reach me:
     - Email: jack.rummell8@gmail.com
     - Linkedin: www.linkedin.com/in/jack-rummell-227808341
